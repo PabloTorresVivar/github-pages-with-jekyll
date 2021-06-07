@@ -2,4 +2,9 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ... hkhkhjkhkhkjhkj
+I'm hoping I can put a gallery here or something
+
+
+Tesxttttttt
+
+<h1>idkkk</h1>
